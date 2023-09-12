@@ -39,7 +39,7 @@ export default function Hero() {
             {/* aspect-h-2 aspect-w-3 */}
             <div className="h-100 w-auto overflow-hidden rounded-lg bg-gray-100">
               <img
-                src="/feature3.jpg"
+                src="/featured3.jpg"
                 alt=""
                 className="object-cover object-center"
               />
