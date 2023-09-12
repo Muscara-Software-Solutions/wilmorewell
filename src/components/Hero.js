@@ -36,9 +36,10 @@ export default function Hero() {
                 324 E Main St, Wilmore, KY
               </a>
             </div>
-            <div className="aspect-h-2 aspect-w-3 overflow-hidden rounded-lg bg-gray-100">
+            {/* aspect-h-2 aspect-w-3 */}
+            <div className="h-100 w-auto overflow-hidden rounded-lg bg-gray-100">
               <img
-                src="/gal1.jpeg"
+                src="/featured.jpeg"
                 alt=""
                 className="object-cover object-center"
               />

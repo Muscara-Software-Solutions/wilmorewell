@@ -6,16 +6,16 @@ export default function Gallary() {
           <img class="h-50 w-auto rounded-lg" src="/gal1.jpeg" alt="" /> 
         </div>
         <div>
-          <img class="h-50 w-auto rounded-lg" src="/gal2.jpeg" alt="" />
+          <img class="h-50 w-auto rounded-lg" src="/featured2.jpg" alt="" />
         </div>
         <div>
-          <img class="h-50 w-auto rounded-lg" src="/gal3.jpeg" alt="" />
+          <img class="h-50 w-auto rounded-lg" src="/gal5.jpeg" alt="" />
         </div>
         <div>
           <img class="h-50 w-auto rounded-lg" src="/gal6.jpeg" alt="" />
         </div>
         <div>
-          <img class="h-50 w-auto rounded-lg" src="/gal5.jpeg" alt="" />
+          <img class="h-50 w-auto rounded-lg" src="/gal3.jpeg" alt="" />
         </div>
         <div>
           <img class="h-50 w-auto rounded-lg" src="/gal4.jpeg" alt="" /> 
